@@ -1,0 +1,6 @@
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.dll
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\bin\Debug\FizzBuzzKata.pdb
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csprojResolveAssemblyReference.cache
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.csproj.CoreCompileInputs.cache
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.dll
+F:\KalreenPlaygroundKata\FizzBuzzKata\FizzBuzzKata\obj\Debug\FizzBuzzKata.pdb
